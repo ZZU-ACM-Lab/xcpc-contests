@@ -62,39 +62,40 @@
 
 *部分链接未在gym公开(也可能是我没找到)，只有题面和题解pdf*
 
-| 2023年                                                       |
-| ------------------------------------------------------------ |
-| [2023年ICPC杭州站](https://codeforces.com/gym/104976)        |
-| [2023年ICPC合肥站](hhttps://icpcarchive.github.io/Hefei.html)（未在gym公开） |
-| [2023年ICPC香港站](https://codeforces.com/gym/104172)        |
-| [2023年ICPC济南站](https://icpcarchive.github.io/Jinan.html) （未在gym公开） |
-| [2023年ICPC澳门站](https://icpcarchive.github.io/Macau.html) （未在gym公开） |
-| [2023年ICPC南京站](https://codeforces.com/gym/104821)        |
-| [2023年ICPC沈阳站](https://icpcarchive.github.io/Shenyang.html) （未在gym公开） |
+| 2023年                                                       | VP Link                         |
+| ------------------------------------------------------------ | ------------------------------- |
+| [2023年ICPC杭州站](https://codeforces.com/gym/104976)        |                                 |
+| [2023年ICPC合肥站](hhttps://icpcarchive.github.io/Hefei.html)（未在gym公开） |                                 |
+| [2023年ICPC香港站](https://codeforces.com/gym/104172)        |                                 |
+| [2023年ICPC济南站](https://icpcarchive.github.io/Jinan.html) （未在gym公开） |                                 |
+| [2023年ICPC澳门站](https://icpcarchive.github.io/Macau.html) （未在gym公开） |                                 |
+| [2023年ICPC南京站](https://codeforces.com/gym/104821)        |                                 |
+| [2023年ICPC沈阳站](https://icpcarchive.github.io/Shenyang.html) （未在gym公开） | https://qoj.ac/contest/1449?v=1 |
 
-| 2022年                                                       |
-| ------------------------------------------------------------ |
-| [2022年ICPC澳门站](https://icpcarchive.github.io/Macau.html) （未在gym公开） |
-| [2022年ICPC南京站](https://codeforces.com/gym/104128)        |
-| [2022年ICPC沈阳站](https://icpcarchive.github.io/Shenyang.html) （未在gym公开） |
+| 2022年                                                       | VP Link                     |
+| ------------------------------------------------------------ | --------------------------- |
+| [2022年ICPC澳门站](https://icpcarchive.github.io/Macau.html) （未在gym公开） |                             |
+| [2022年ICPC南京站](https://codeforces.com/gym/104128)        |                             |
+| [2022年ICPC沈阳站](https://icpcarchive.github.io/Shenyang.html) （未在gym公开） | https://qoj.ac/contest/1096 |
+| [2022年ICPC杭州站](https://codeforces.com/gym/104090)        |                             |
+| [2022年ICPC济南站](https://icpcarchive.github.io/Jinan.html) （未在gym公开） |                             |
 
-| 2021年                                                       |
-| ------------------------------------------------------------ |
-| [2021年ICPC澳门站](https://icpcarchive.github.io/Macau.html) （未在gym公开） |
-| [2021年ICPC南京站](https://icpcarchive.github.io/Nanjing.html) （未在gym公开） |
-| [2021年ICPC上海站](https://icpcarchive.github.io/Shanghai.html) （未在gym公开） |
-| [2021年ICPC沈阳站](https://icpcarchive.github.io/Shenyang.html) （未在gym公开） |
+| 2021年                                                       | VP Link                     |
+| ------------------------------------------------------------ | --------------------------- |
+| [2021年ICPC澳门站](https://icpcarchive.github.io/Macau.html) （未在gym公开） |                             |
+| [2021年ICPC南京站](https://icpcarchive.github.io/Nanjing.html) （未在gym公开） | https://qoj.ac/contest/1236 |
+| [2021年ICPC上海站](https://icpcarchive.github.io/Shanghai.html) （未在gym公开） |                             |
+| [2021年ICPC沈阳站](https://icpcarchive.github.io/Shenyang.html) （未在gym公开） | https://qoj.ac/contest/1252 |
 
-| 2020年                                                       |
-| ------------------------------------------------------------ |
-| [2022年ICPC杭州站](https://codeforces.com/gym/104090)        |
-| [2022年ICPC济南站](https://icpcarchive.github.io/Jinan.html) （未在gym公开） |
-| [2020年ICPC澳门站](https://icpcarchive.github.io/Macau.html) （未在gym公开） |
-| [2020年ICPC沈阳站](https://icpcarchive.github.io/Shenyang.html) （未在gym公开） |
+| 2020年                                                       | VP Link                     |
+| ------------------------------------------------------------ | --------------------------- |
+| [2020年ICPC澳门站](https://icpcarchive.github.io/Macau.html) （未在gym公开） |                             |
+| [2020年ICPC沈阳站](https://icpcarchive.github.io/Shenyang.html) （未在gym公开） | https://qoj.ac/contest/1251 |
+| 2020年ICPC南京站                                             | https://qoj.ac/contest/1235 |
 
 | 2019年                                                       |
 | ------------------------------------------------------------ |
-| [2023年ICPC香港站](https://codeforces.com/gym/102452)        |
+| [2019年ICPC香港站](https://codeforces.com/gym/102452)        |
 | [2019年ICPC银川站](https://icpcarchive.github.io/Yinchuan.html) （未在gym公开） |
 |                                                              |
 
